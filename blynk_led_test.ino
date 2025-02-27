@@ -15,8 +15,9 @@
 char auth[] = "C5DqdtYO1rF1T_OiGU3EeusaQva6wclo";
 
 // Your Wi-Fi credentials
-char ssid[] = "Black_Tech";
-char pass[] = "Black@2020";
+char ssid[] = "..........";
+char pass[] = "********";
+
 
 // Blynk virtual pin handler
 BLYNK_WRITE(V0) {
